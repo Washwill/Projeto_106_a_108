@@ -1,0 +1,48 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #00f8ff;
+  color: #001fff;
+}
+
+.header_div
+  {
+  background: rgb(51, 255, 0);
+  color: rgb(255, 255, 255); 
+  }
+
+  .header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(4, 0, 255);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  .copy_right_footer {
+   position: fixed;
+   color: #ffffff;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #00ff1e;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+   font-family: 'Noto Serif', serif;
+}
+.btn-warning {
+  color: #1d00ff;
+  background-color: #00ff0f;
+  border-color: #01ff00;
+  font-family: 'Are You Serious', cursive;
+}
+#botao{
+  font-family: 'Zen Antique', serif;
+}
